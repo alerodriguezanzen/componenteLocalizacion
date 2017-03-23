@@ -1,0 +1,19 @@
+{
+  "name": "componentelocalizacion",
+  "version": "1.0.0",
+  "description": "componenteLocalizacion",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alerodriguezanzen/componenteLocalizacion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alerodriguezanzen/componenteLocalizacion/issues"
+  },
+  "homepage": "https://github.com/alerodriguezanzen/componenteLocalizacion#readme"
+}
